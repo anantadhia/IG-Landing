@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: linear-gradient(297deg, #e500e6, #ff0000, #2d009d, #95009d);
+  background-size: 800% 800%;
+
+  -webkit-animation: AnimationName 5s ease infinite;
+  -moz-animation: AnimationName 5s ease infinite;
+  animation: AnimationName 5s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+  0% {
+    background-position: 0% 43%;
+  }
+  50% {
+    background-position: 100% 58%;
+  }
+  100% {
+    background-position: 0% 43%;
+  }
+}
+@-moz-keyframes AnimationName {
+  0% {
+    background-position: 0% 43%;
+  }
+  50% {
+    background-position: 100% 58%;
+  }
+  100% {
+    background-position: 0% 43%;
+  }
+}
+@keyframes AnimationName {
+  0% {
+    background-position: 0% 43%;
+  }
+  50% {
+    background-position: 100% 58%;
+  }
+  100% {
+    background-position: 0% 43%;
+  }
+}
+h1 {
+  font-family: "Unbounded", sans-serif;
+  font-size: 5rem;
+  mix-blend-mode: difference;
+  color: aliceblue;
+}
