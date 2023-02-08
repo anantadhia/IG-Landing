@@ -28,25 +28,25 @@ function Count() {
         <span className="countdown font-mono text-5xl">
           <span style={{ "--value": days }}></span>
         </span>
-        days
+        Hari
       </div>
       <div className="flex flex-col">
         <span className="countdown font-mono text-5xl">
           <span style={{ "--value": hours }}></span>
         </span>
-        hours
+        Jam
       </div>
       <div className="flex flex-col">
         <span className="countdown font-mono text-5xl">
           <span style={{ "--value": minutes }}></span>
         </span>
-        min
+        Menit
       </div>
       <div className="flex flex-col">
         <span className="countdown font-mono text-5xl">
           <span style={{ "--value": seconds }}></span>
         </span>
-        sec
+        Detik
       </div>
     </div>
   );
