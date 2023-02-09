@@ -60,10 +60,10 @@ function App() {
           Masih ragu? Gratis ngobrol konsultasi kok{" "}
         </h2>
         <a href="https://wa.link/cvlbki">
-          <button className="btn bg-green-500 m-5">WA kami</button>
+          <button className="btn bg-green-500 rounded-lg m-5">WA kami</button>
         </a>
         <a href="https://lapage.website/email">
-          <button className="btn bg-blue-500 m-5">Email aja</button>
+          <button className="btn bg-blue-500 rounded-lg m-5">Email aja</button>
         </a>
       </div>
       <div className="text-white m-3 backdrop-blur-xl bg-white/30 rounded-lg p-3">
