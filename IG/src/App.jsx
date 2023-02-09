@@ -62,7 +62,7 @@ function App() {
         <a href="https://wa.link/cvlbki">
           <button className="btn bg-green-500 m-5">WA kami</button>
         </a>
-        <a href="https://lapage.website/about">
+        <a href="https://lapage.website/email">
           <button className="btn bg-blue-500 m-5">Email aja</button>
         </a>
       </div>
