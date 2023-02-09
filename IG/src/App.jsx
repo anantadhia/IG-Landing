@@ -56,8 +56,7 @@ function App() {
       />
       <div className="text-white m-3 backdrop-blur-xl bg-white/30 rounded-lg p-3 justify-between text-center border">
         <h2 className=" text-lg font-bold font-sans ">
-          {" "}
-          Masih ragu? Gratis ngobrol konsultasi kok{" "}
+          Masih ragu? Gratis ngobrol konsultasi kok
         </h2>
         <a href="https://wa.link/cvlbki">
           <button className="btn bg-green-500 rounded-lg m-5">WA kami</button>
